@@ -5,7 +5,6 @@ import { GaneParmsProps } from "../../@types/navigation";
 import { Background } from '../../components/Background';
 import { styles } from './styles';
 import { Entypo } from '@expo/vector-icons';
-import logoImg from '../../assets/logo-nlw-esports.png';
 import { THEME } from "../../theme";
 import { Heading } from "../../components/Heading";
 import { EventCard } from "../../components/EventCard";

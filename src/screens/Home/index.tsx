@@ -2,7 +2,7 @@
 import React, { useEffect, useState } from "react";
 import { View, Image, FlatList, TextInput, Text } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import { logImg } from "../../assets/logo-nlw-esports.png";
+import { logImg } from "../../assets/logo-w2go.png";
 import { Heading } from '../../components/Heading';
 import { GameCard, gameCardProps } from '../../components/GameCard';
 import { GAMES } from "../../utils/games";
