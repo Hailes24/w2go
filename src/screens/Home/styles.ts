@@ -24,8 +24,8 @@ export const styles = StyleSheet.create({
     width: 214,
     height: 40,
     marginTop: 74,
-    marginBottom: 48
-    //,backgroundColor: THEME.COLORS.ALERT
+    //marginBottom: 48
+    //backgroundColor: THEME.COLORS.ALERT
   },
   contentList: {
     paddingStart: 32,
